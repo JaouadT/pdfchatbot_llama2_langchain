@@ -8,7 +8,7 @@ The chatbot extracts pages from the PDF, builds a question-answer chain using th
 
 ## Installation
 - Download and install Ollama: 'https://ollama.ai/download'
-- Clone the repository: 'https://github.com/JaouadT/dfchatbot_llama2_langchain.git'.
+- Clone the repository: 'https://github.com/JaouadT/pdfchatbot_llama2_langchain.git'.
 - cd into the repository: 'cd dfchatbot_llama2_langchain'.
 - pip install -r requirements.txt
 
