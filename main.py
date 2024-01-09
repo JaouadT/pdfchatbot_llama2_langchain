@@ -2,8 +2,6 @@ import argparse
 from utils import get_pdf_pages, get_chroma_vectors_db, \
                 get_question_answer_chain, process_llm_response, initialize_llm
 
-# Write thid project
-
 # parse arguments
 parser = argparse.ArgumentParser(description='PDF chatbot using llama2 LLM')
 parser.add_argument('--pdf_file', type=str, help='path to pdf file', default='pdfs/paper.pdf')
